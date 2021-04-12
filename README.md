@@ -1,27 +1,20 @@
-# NossaLoja
+# Nossa Loja
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+Projeto para primeiro ciclo de estudos do FW Angular.  
 
-## Development server
+## Plano
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Seguir projeto getting started da doc oficial: https://angular.io/start, após cada um fazer o trecho préviamente combinado nos reuniremos para discutir sobre o que foi feito.  
 
-## Code scaffolding
+## Agenda
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Agenda de planejamento dos encontros, que aconteceram às terças e sextas.  
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- **13/04/2021**
+  - O que é desenvolvimento Web
+  - HTML, CSS e JS, modo vanilla
+  - Alinhamento da atividade para o próximo encontro
+- **16/04/2021**
+  - Preparação do ambiente de desenvolvimento
+  - Definição da atv para próximo encontro
+- **20/04/2021**
