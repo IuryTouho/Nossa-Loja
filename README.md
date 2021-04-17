@@ -20,12 +20,17 @@ ng serve
 
 Agenda de planejamento dos encontros, que aconteceram às terças e sextas.  
 
-- **13/04/2021**
-  - O que é desenvolvimento Web
-  - HTML, CSS e JS, modo vanilla
-  - Próxima atividade: [Preparação do ambiente de desenvolvimento](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/0.preparacao-ambiente)
-- **16/04/2021**
-  - Revisão da [preparação do ambiente de desenvolvimento](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/0.preparacao-ambiente)
-  - Próxima atividade: [01.lista-de-produtos](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos)
-- **20/04/2021**
-  - Revisão atividade [01.lista-de-produtos](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos)
+### 13/04/2021
+
+- O que é desenvolvimento Web
+- HTML, CSS e JS, modo vanilla
+- Próxima atividade: [Preparação do ambiente de desenvolvimento](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/0.preparacao-ambiente)
+
+### 16/04/2021
+
+- Revisão da [preparação do ambiente de desenvolvimento](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/0.preparacao-ambiente)
+- Próxima atividade: [01.lista-de-produtos](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos)
+
+### 20/04/2021
+
+- Revisão atividade [01.lista-de-produtos](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos)
