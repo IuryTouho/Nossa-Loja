@@ -29,8 +29,13 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 16/04/2021
 
 - Revisão da [preparação do ambiente de desenvolvimento](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/0.preparacao-ambiente)
-- Próxima atividade: [01.lista-de-produtos](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos)
+- Próximo exercício: [01.lista-de-produtos](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos)
 
 ### 20/04/2021
 
-- Revisão atividade [01.lista-de-produtos](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos)
+- Revisão do exercício [01.lista-de-produtos/a](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#a.-até-passo-3)
+- Próximo execício [01.lista-de-produtos/b](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#b.-passo-4-ao-7)
+
+### 23/04/2021
+
+- Revisão do execício [01.lista-de-produtos/b](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#b.-passo-4-ao-7)
