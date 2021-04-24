@@ -39,3 +39,8 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 23/04/2021
 
 - Revisão do execício [01.lista-de-produtos/b](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#b-passo-4-ao-7)
+- Próximo exercício [02.passar-dados-para-um-component-filho](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/02.passar-dados-para-componente-filho)
+
+### 27/04/2021
+
+- Revisão do exercício [02.passar-dados-para-um-component-filho](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/02.passar-dados-para-componente-filho)
