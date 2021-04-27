@@ -11,10 +11,13 @@ Seguir projeto getting started da doc oficial: https://angular.io/start, após c
 1. Via Cmder:
 
 ```sh
+# -o é opcional, para abrir a página (http://localhost:4200) automaticamente
 ng serve
 ```
 
-1. No navegador abrir endereço: http://localhost:4200, usando o parâmetro `-o` no `ng serve` para abrir automaticamente
+### Subir atualização de código
+
+- Executar **script/subir-codigo.bat**
 
 ## Agenda dos encontros para revisão
 

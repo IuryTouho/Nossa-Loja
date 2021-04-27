@@ -19,7 +19,7 @@ git checkout "%nomeBranch%" >nul 2>nul
 @REM git switch -c %nomeUsr%
 if errorlevel 1 goto falha
 
-echo Breve comentário sobre essa atualização de código
+echo Informe um comentário sobre essa atualização de código e tecle <ENTER>
 set /p msgCommit=Comentário:
 If /I "%msgCommit%"=="" set "msgCommit=Subir código via script"
 
