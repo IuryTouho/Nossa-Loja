@@ -17,9 +17,10 @@ call :setErr 0
 
 git checkout "%nomeBranch%" >nul 2>nul
 @REM git switch -c %nomeUsr%
+
 if errorlevel 1 goto falha
 
-echo Informe um comentário sobre essa atualização de código e tecle <ENTER>
+echo Informe um comentário sobre essa atualização de código e tecle ENTER
 set /p msgCommit=Comentário:
 If /I "%msgCommit%"=="" set "msgCommit=Subir código via script"
 
@@ -30,15 +31,15 @@ git push -u origin "%nomeBranch%" >nul
 
 echo ### Código atualizado com sucesso!!! ###
 
-pause
-
 goto fim
 
 :falha
 
-@echo ### Processo abortado, execute-me novamente informando o número da OS e nome do cliente ###
+echo ### Processo abortado, execute-me novamente informando o número da OS e nome do cliente ###
 
 :fim
+
+pause
 
 exit
 
