@@ -12,10 +12,10 @@ Seguir projeto getting started da doc oficial: https://angular.io/start, após c
 
 ```sh
 # -o é opcional, para abrir a página (http://localhost:4200) automaticamente
-ng serve
+ng serve -o
 ```
 
-### Subir atualização de código
+## Subir atualização de código
 
 - Executar **script/subir-codigo.bat**
 
