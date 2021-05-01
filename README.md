@@ -52,3 +52,8 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 30/04/2021
 
 - Revisão do exercício [03.passar-dados-para-um-component-pai](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/03.passar-dados-para-componente-pai)
+- Revisão do exercício [04.adicionando navegação](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/04.adicionando-navegacao)
+
+### 04/05/2021
+
+- Revisão do exercício [04.adicionando navegação](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/04.adicionando-navegacao)
