@@ -14,4 +14,8 @@ export class ProductListComponent {
     window.alert('O produto foi compartilhado!');
   }
 
+  onNotify() {
+    window.alert('Você será notificado quando o produto for colocado à venda');
+  }
+
 }
