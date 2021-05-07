@@ -17,6 +17,8 @@ ng serve -o
 
 ## Subir atualização de código
 
+Passos para subir código para o repositório conjunto, subir ao menos antes de cada encontro
+
 - Executar **script/subir-codigo.bat**
 
 ## Agenda dos encontros para revisão
@@ -57,3 +59,8 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 04/05/2021
 
 - Revisão do exercício [04.adicionando navegação](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/04.adicionando-navegacao)
+- Próximo exercício [05.gererenciando dados](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/05.gerenciando-dados)
+
+### 07/05/2021
+
+- Revisão do exercício [05.gererenciando dados](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/05.gerenciando-dados)
