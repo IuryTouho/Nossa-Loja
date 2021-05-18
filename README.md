@@ -64,11 +64,11 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 07/05/2021
 
 - Revisão do exercício [05.gererenciando dados](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/05.gerenciando-dados)
-- Próximo exercício [06.criar visualização do carrinho](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/06.criar-visualizacao-do-carrinho)
+- Próximo exercício [06.criar visualização do carrinho](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/06.criar-visualizacao-carrinho)
 
 ### 14/05/2021
 
-- Revisão do exercício [06.criar visualização do carrinho](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/06.criar-visualizacao-do-carrinho)
+- Revisão do exercício [06.criar visualização do carrinho](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/06.criar-visualizacao-carrinho)
 - Próximo exercício [07.obter precos de envio](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/07.obter-precos-de-envio)
 
 ### 18/05/2021
