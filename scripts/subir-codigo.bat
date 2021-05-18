@@ -27,6 +27,8 @@ If /I "%msgCommit%"=="" set "msgCommit=Subir código via script"
 git add ../. >nul
 git commit -m "%msgCommit%" >nul
 
+git pull --rebase >nul
+
 git push -u origin "%nomeBranch%" >nul
 
 echo ### Código atualizado com sucesso!!! ###
