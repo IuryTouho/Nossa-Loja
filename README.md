@@ -74,3 +74,8 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 18/05/2021
 
 - Revisão do exercício [07.obter precos de envio](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/07.obter-precos-de-envio)
+- Próximo exercício [08.usando formularios para entrada do usuario](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/08.usando-formularios-para-entrada-do-usuario)
+
+### 21/05/2021
+
+- Revisão do exercício [08.usando formularios para entrada do usuario](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/08.usando-formularios-para-entrada-do-usuario)
