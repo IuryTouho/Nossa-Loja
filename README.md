@@ -79,3 +79,9 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 21/05/2021
 
 - Revisão do exercício [08.usando formularios para entrada do usuario](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/08.usando-formularios-para-entrada-do-usuario)
+- Próximo exercício [09.build da aplicação](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/09.build-da-aplicacao)
+
+### 25/05/2021
+
+- Revisão do exercício [09.build da aplicação](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/09.build-da-aplicacao)
+- Discussão sobre os conceitos
