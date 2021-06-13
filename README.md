@@ -91,3 +91,7 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 
 - Após discussão Criar doc básica sobre o Angular [aqui](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/home)
 - Discutir sobre CSS usado no projeto dos exercícios e documentar [aqui](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/estilos)
+
+### 16/05/2021 - Estilos com CSS
+
+- Revisão do exercício [10.estilização básica com css](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/10.estilizacao-basica-com-css)
