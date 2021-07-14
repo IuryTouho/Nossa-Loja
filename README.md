@@ -1,4 +1,4 @@
-# Nossa Loja
+``# Nossa Loja
 
 Projeto para primeiro ciclo de estudos do FW Angular.  
 
@@ -39,7 +39,7 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 20/04/2021
 
 - Revisão do exercício [01.lista-de-produtos/a](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#a-at%C3%A9-passo-3)
-- Próximo execício [01.lista-de-produtos/b](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#b-passo-4-ao-7)
+- Próximo exercício [01.lista-de-produtos/b](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#b-passo-4-ao-7)
 
 ### 23/04/2021
 
@@ -95,3 +95,11 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 16/05/2021 - Estilos com CSS
 
 - Revisão do exercício [10.estilização básica com css](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/10.estilizacao-basica-com-css)
+
+### 16/05/2021 - Estilos com CSS
+
+- Revisão do exercício [10.estilização básica com css](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/10.estilizacao-basica-com-css)
+
+### 14/07/2021 - Revisão e documentação dos conceitos do exercício 01
+- Revisão do exercício [01.lista-de-produtos/a](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#a-at%C3%A9-passo-3)
+- Documentar definição dos conceitos na própria página
