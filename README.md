@@ -96,10 +96,11 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 
 - Revisão do exercício [10.estilização básica com css](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/10.estilizacao-basica-com-css)
 
-### 16/05/2021 - Estilos com CSS
-
-- Revisão do exercício [10.estilização básica com css](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/10.estilizacao-basica-com-css)
-
-### 20/07/2021 - Revisão e documentação dos conceitos do exercício 01
+### 20/07/2021 - Revisão e documentação dos conceitos do exercício 01 a
 - Revisão do exercício [01.lista-de-produtos/a](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#a-at%C3%A9-passo-3)
+- Documentar definição dos conceitos na própria página
+
+
+### 23/07/2021 - Revisão e documentação dos conceitos do exercício 01 b
+- - Revisão do execício [01.lista-de-produtos/b](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#b-passo-4-ao-7)
 - Documentar definição dos conceitos na própria página
