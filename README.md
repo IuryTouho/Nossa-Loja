@@ -102,5 +102,30 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 
 
 ### 23/07/2021 - Revisão e documentação dos conceitos do exercício 01 b
-- - Revisão do execício [01.lista-de-produtos/b](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#b-passo-4-ao-7)
+- Revisão do execício [01.lista-de-produtos/b](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/01.lista-de-produtos#b-passo-4-ao-7)
 - Documentar definição dos conceitos na própria página
+
+### 03/09/2021 - Revisão e documentação dos conceitos dos exercícios 04, 05 e 06
+
+- Revisão dos execícios [04.adicionando-navegacao](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/04.adicionando-navegacao), [05.gerenciando-dados](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/05.gerenciando-dados) e [06.criar-visualizacao-carrinho](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/06.criar-visualizacao-carrinho)
+- Documentar definição dos conceitos na própria página
+
+### 08/09/2021 - Revisão e documentação dos conceitos do exercício 05
+
+- Revisão dos execícios [07.obter-precos-de-envio](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/07.obter-precos-de-envio)
+- Documentar definição dos conceitos na própria página
+
+### 10/09/2021 - Revisão e documentação dos conceitos do exercício 06
+
+- Revisão dos execícios [08.usando-formularios-para-entrada-do-usuario](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/08.usando-formularios-para-entrada-do-usuario) e [09.build-da-aplicacao](https://gitlab.com/key-estudos/angular/nossa-loja/-/wikis/exercicios/09.build-da-aplicacao)
+- Documentar definição dos conceitos na própria página
+
+### 14/09/2021 - Brainstorming sobre projeto de agenda de contatos
+
+- Troca de idéias sobre produto e projeto de agenda de contatos
+- Documentar
+
+### 17/09/2021 - Definição MVP e tecnologias do projeto
+
+- Definição de [MVP](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo) e stack tecnológica do projeto
+
