@@ -128,4 +128,4 @@ Agenda de planejamento dos encontros, que aconteceram às terças e sextas.
 ### 17/09/2021 - Definição MVP e tecnologias do projeto
 
 - Definição de [MVP](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo) e stack tecnológica do projeto
-
+- Documentar
